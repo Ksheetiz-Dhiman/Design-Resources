@@ -71,6 +71,7 @@ A curated collection of free and premium design resources for designers and deve
 |---|---|
 | [Lunacy](https://icons8.com/lunacy) | Free graphic design software with built-in assets |
 | [Vectr](https://vectr.com) | Free vector graphics editor for web and desktop |
+| [Pic2SVG](https://pic2svg.com/) | Raster-to-vector inspection for flat artwork with a free anonymous split preview and enlarged view; downloads require Pro, and images are processed on the server. |
 | [VistaCreate](https://create.vista.com) | Online graphic design tool with templates |
 | [Relay That](https://relaythat.com) | Automated resizing and brand design tool |
 | [Desygner](https://desygner.com) | Online design tool for marketing materials |
