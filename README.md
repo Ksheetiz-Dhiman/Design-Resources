@@ -74,6 +74,7 @@ A curated collection of free and premium design resources for designers and deve
 | [VistaCreate](https://create.vista.com) | Online graphic design tool with templates |
 | [Relay That](https://relaythat.com) | Automated resizing and brand design tool |
 | [Desygner](https://desygner.com) | Online design tool for marketing materials |
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | Free no-account image-to-ASCII converter with TXT and PNG exports. |
 
 ---
 
