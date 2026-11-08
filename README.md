@@ -74,6 +74,7 @@ A curated collection of free and premium design resources for designers and deve
 | [VistaCreate](https://create.vista.com) | Online graphic design tool with templates |
 | [Relay That](https://relaythat.com) | Automated resizing and brand design tool |
 | [Desygner](https://desygner.com) | Online design tool for marketing materials |
+| [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) | Free script-header and body-font pairing guidance; paid fonts and workbooks are separate. |
 
 ---
 
